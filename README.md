@@ -24,9 +24,9 @@
 In this project I built an application through which we can automatically get the name of the color by double clicking on it. For this, I used a dataset that contains the color name and its RGB values. The method used to find the color name was to calculate the distance from each color and find the shortest one.
 
 
-![Feedback Classifier Screen Shot][product-screenshot]
-![Feedback Classifier Positive Prediction Screenshot][product-positive-screenshot]
-![Feedback Classifier Negative Prediction Screenshot][product-negative-screenshot]
+![Color Detector Blue][color_detector_blue]
+![Color Detector Lust][pcolor_detector_lust]
+![Color Detector Green][pcolor_detector_green]
 
 
 
@@ -50,21 +50,11 @@ This project was built entirely on Python.
 
 ### Libraries Used
 
-* [scikit-learn](https://scikit-learn.org/stable/)
-* [random](https://docs.python.org/3/library/random.html)
-* [json](https://docs.python.org/3/library/json.html)
-* [Tkinter](https://docs.python.org/3/library/tkinter.html)
-
-### Machine Learning Models Used:
-
-I trained and evaluated the following Machine Learning models for this project:
-
-* [SVM](https://scikit-learn.org/stable/modules/svm.html)
-* [DecisionTrees](https://scikit-learn.org/stable/modules/tree.html)
-* [NaiveBayes](https://scikit-learn.org/stable/modules/naive_bayes.html)
-* [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-
-
+* [argparse](https://docs.python.org/3/library/argparse.html)
+* [OpenCv](https://opencv.org/)
+* [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* 
 
 <!-- CONTACT -->
 ## Contact
@@ -75,10 +65,9 @@ Project Link: [https://github.com/apuneet839/Feedback_Classifier](https://github
 
 
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-url]: https://www.linkedin.com/in/puneet-arora-1401
-[product-screenshot]: images/Feedback_classifier_default.png
-[product-positive-screenshot]: images/Feedback_classifier_positive.png
-[product-negative-screenshot]: images/Feedback_classifier_negative.png
+[color_detector_bluet]: images/color_detector_blue.png
+[color_detector_lust]: images/color_detector_lust.png
+[color_detector_green]: images/color_detector_green.png
