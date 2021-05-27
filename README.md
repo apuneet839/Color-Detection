@@ -59,8 +59,9 @@ This project was built entirely on Python.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@puneet_arora_14](https://twitter.com/puneet_arora_14)
-LinkedIn - [Puneet Arora][linkedin-url]
+LinkedIn - [Puneet Arora](linkedin-url)
+Twitter - [@puneet_arora_14](https://twitter.com/puneet_arora_14)
+
 
 Project Link: [https://github.com/apuneet839/Color-Detector](https://github.com/apuneet839/Color-Detector)
 
