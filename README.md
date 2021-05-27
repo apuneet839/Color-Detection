@@ -25,8 +25,8 @@ In this project I built an application through which we can automatically get th
 
 
 ![Color Detector Blue][color_detector_blue]
-![Color Detector Lust][pcolor_detector_lust]
-![Color Detector Green][pcolor_detector_green]
+![Color Detector Lust][color_detector_lust]
+![Color Detector Green][color_detector_green]
 
 
 
