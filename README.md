@@ -54,7 +54,7 @@ This project was built entirely on Python.
 * [OpenCv](https://opencv.org/)
 * [Numpy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
-* 
+
 
 <!-- CONTACT -->
 ## Contact
