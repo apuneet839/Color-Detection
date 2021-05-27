@@ -68,6 +68,6 @@ Project Link: [https://github.com/apuneet839/Feedback_Classifier](https://github
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-url]: https://www.linkedin.com/in/puneet-arora-1401
-[color_detector_bluet]: images/color_detector_blue.png
+[color_detector_blue]: images/color_detector_blue.png
 [color_detector_lust]: images/color_detector_lust.png
 [color_detector_green]: images/color_detector_green.png
