@@ -60,8 +60,9 @@ This project was built entirely on Python.
 ## Contact
 
 Your Name - [@puneet_arora_14](https://twitter.com/puneet_arora_14)
+LinkedIn - [Puneet Arora][linkedin-url]
 
-Project Link: [https://github.com/apuneet839/Feedback_Classifier](https://github.com/apuneet839/Feedback_Classifier)
+Project Link: [https://github.com/apuneet839/Color-Detector](https://github.com/apuneet839/Color-Detector)
 
 
 
